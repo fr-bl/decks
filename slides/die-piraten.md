@@ -19,19 +19,19 @@ style: |
 
 ---
 
-== Gründung
+## Gründung
 
 - Vorbilder:
     - schwedische Piratenpartei
     - Pirate Bay
 - Ursprünglich Ein-Thema Partei
-- Gründungsversammlung beschloss Vollprogramm
+- beschloss ein Vollprogramm
 
 ![bg right](https://europa2024.piratenpartei.de/wp-content/uploads/2024/02/karte-EU-e1716555707840.png)
 
 ---
 
-== Quellen
+## Quellen
 
 - https://de.m.wikipedia.org/wiki/Piratenpartei_Deutschland
 - https://www.piratenpartei.de/
